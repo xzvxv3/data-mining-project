@@ -2,3 +2,19 @@
 data/*
 # .gitkeep 파일만은 예외로 추적
 !data/.gitkeep
+
+# 운영체제 설정
+.DS_Store
+
+# IDE 설정
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# 로그파일
+logs
+*.log
+
+# 개인 환경변수
+.env
+.env.*
