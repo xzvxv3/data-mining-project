@@ -1,3 +1,5 @@
+작업 환경
+```
 DataMining-Project/
 ├── data/                  # [공통] 데이터 보관
 │   ├── raw/               # 원본 데이터 (수정 금지)
@@ -15,3 +17,4 @@ DataMining-Project/
 ├── reports/               # [공통] 최종 비교 결과 및 그래프
 ├── README.md              # 프로젝트 설명 및 역할 분담
 └── requirements.txt       # 공통 라이브러리 목록
+```
