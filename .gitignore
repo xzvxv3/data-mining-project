@@ -1,0 +1,4 @@
+# data 폴더 안의 모든 파일을 무시
+data/*
+# .gitkeep 파일만은 예외로 추적
+!data/.gitkeep
